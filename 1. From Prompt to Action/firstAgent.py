@@ -1,12 +1,8 @@
 import os
-from urllib import response
 from google.adk.agents import Agent
-from google.adk.models.google_llm import Gemini
 from google.adk.runners import InMemoryRunner
-from google.adk.tools import google_search_tool
 from google.genai import types
-from IPython.display import display,HTML
-from jupyter_server.serverapp import list_running_servers
+from IPython.display import display, HTML
 from google.adk.tools.google_search_tool import GoogleSearchTool
 from google.adk.models import Gemini
 import asyncio
