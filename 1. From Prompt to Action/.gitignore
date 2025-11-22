@@ -1,0 +1,25 @@
+# Virtual environments
+myvenv/
+venv/
+.venv/
+env/
+.env/
+
+# ADK
+.adk/
+adk/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.env
+sample_agent/.env
+
